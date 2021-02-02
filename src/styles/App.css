@@ -1,0 +1,9 @@
+.logo{
+  margin: 0px;
+  height: 100vh;
+  width: 100%;
+}
+.logo > a > img{
+  height: 100vh;
+  width: 100%;
+}
